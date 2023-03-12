@@ -1,4 +1,4 @@
-This is the Front-end Assessment requested by Speer Technologies.
+
 This project uses React for UI and functionality, React Router for Routing, Material-ui for styling.
 
 ## Summary
